@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет, я Shyngyskhan (Shyngysd)</h1>
+<h1 align="center">👋 Привет, я Shyngyskhan </h1>
 
 <p align="center">
 📱 Flutter-разработчик из Алматы 🇰🇿
