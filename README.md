@@ -41,6 +41,14 @@
 
 ---
 
+### 📌 Избранные проекты
+
+- **[BookVers](https://github.com/Shyngysd/BookVers)** — Flutter-приложение для личной библиотеки: офлайн-хранение, поиск и экспорт.
+- **[DriveDiary](https://github.com/Shyngysd/DriveDiary)** — дневник поездок: Flutter, FastAPI, автоматизированные тесты и CI.
+- **[GateKeeper](https://github.com/Shyngysd/GateKeeper)** — Flutter-приложение с Firebase Authentication.
+
+---
+
 ### 🚀 Открыт новым возможностям
 
 Ищу новые возможности для профессионального роста. Готов быстро учиться, внедрять новые технологии и браться за интересные проекты.
